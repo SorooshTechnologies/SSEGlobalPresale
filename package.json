@@ -1,0 +1,22 @@
+{
+  "name": "global-presale-contract",
+  "version": "1.0.0",
+  "description": "SSE Global Presale Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "www.soroosh.app",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorooshTechnologies/SSEGlobalPresale"
+  },
+  "devDependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "truffle-plugin-verify": "^0.6.1"
+  }
+}
